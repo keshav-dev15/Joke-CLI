@@ -1,13 +1,15 @@
-# Joke CLI App
+# Joke CLI 
 
-A simple Python CLI app that fetches jokes from JokeAPI.
+A fun command-line tool that serves random jokes whenever you run it. Perfect for a quick laugh while coding or just brightening your day.  
 
-## Features
-- Multiple joke categories
-- Loading animation
-- Error handling
-- Runs in terminal
+**Features:** Displays a new random joke each time, simple and easy-to-use, runs entirely in your terminal.  
 
-## Run
-```bash
-python joke_cli.py
+**Installation:**  
+1. Clone the repo: `git clone https://github.com/your-username/joke-cli.git`  
+2. Go to the folder: `cd joke-cli`  
+3. Run the program: `python joke_cli.py` *(replace if using another language)*  
+
+**Example:**  
+`$ python joke_cli.py` → "Why did the programmer quit his job? Because he didn't get arrays. "  
+
+**Contributing:** Submit jokes, suggest improvements, or fix bugs. Open-source and free to use. 
